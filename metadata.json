@@ -1,0 +1,7 @@
+{
+  "name": "WebVoice Chat",
+  "description": "Voice chat with any website using Gemini Search Grounding and TTS.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
